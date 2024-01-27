@@ -1,0 +1,26 @@
+package: mpg123
+platformname: macosx macosx iphoneos iphonesimulator
+date: macosx(27.01.2024, 21.08.34) macosx(27.01.2024, 21.08.44) iphoneos(27.01.2024, 21.08.38) iphonesimulator(27.01.2024, 21.08.40)
+minimumversion: macosx(10.13) macosx(10.15) iphoneos(12.0) iphonesimulator(12.0)
+platformversion: macosx(14.2) macosx(14.2) iphoneos(17.2) iphonesimulator(17.2)
+sdkversion: macosx(1520) macosx(1520) iphoneos(1520) iphonesimulator(1520)
+bundleversion: macosx(1.32.4) macosx(1.32.4) iphoneos(1.32.4) iphonesimulator(1.32.4)
+checksum: ae7af8b3a2568b1e26449b4053a4c1bda3dfac78897363ea616d7f28f3d161cb
+
+package: out123
+platformname: macosx macosx iphoneos iphonesimulator
+date: macosx(27.01.2024, 21.09.02) macosx(27.01.2024, 21.09.16) iphoneos(27.01.2024, 21.09.08) iphonesimulator(27.01.2024, 21.09.11)
+minimumversion: macosx(10.13) macosx(10.15) iphoneos(12.0) iphonesimulator(12.0)
+platformversion: macosx(14.2) macosx(14.2) iphoneos(17.2) iphonesimulator(17.2)
+sdkversion: macosx(1520) macosx(1520) iphoneos(1520) iphonesimulator(1520)
+bundleversion: macosx(1.32.4) macosx(1.32.4) iphoneos(1.32.4) iphonesimulator(1.32.4)
+checksum: 007bb830fc77aca307dced0680aeadb468c81d8f25876c3c324c405110746a4d
+
+package: syn123
+platformname: macosx macosx iphoneos iphonesimulator
+date: macosx(27.01.2024, 21.09.32) macosx(27.01.2024, 21.09.44) iphoneos(27.01.2024, 21.09.37) iphonesimulator(27.01.2024, 21.09.40)
+minimumversion: macosx(10.13) macosx(10.15) iphoneos(12.0) iphonesimulator(12.0)
+platformversion: macosx(14.2) macosx(14.2) iphoneos(17.2) iphonesimulator(17.2)
+sdkversion: macosx(1520) macosx(1520) iphoneos(1520) iphonesimulator(1520)
+bundleversion: macosx(1.32.4) macosx(1.32.4) iphoneos(1.32.4) iphonesimulator(1.32.4)
+checksum: 97a5b55eada2b3acc197707983b85e3bb8bf266d5000ae62a07393f19d01cd90
