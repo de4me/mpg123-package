@@ -22,13 +22,13 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "mpg123",
-                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.4/mpg123.zip",
-                      checksum: "ae7af8b3a2568b1e26449b4053a4c1bda3dfac78897363ea616d7f28f3d161cb"),
+                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.6/mpg123.zip",
+                      checksum: "4162859e9fda15f7a5fb0d2ccad3f9527f6045dff18f58f870d1ed9f036da88c"),
         .binaryTarget(name: "out123",
-                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.4/out123.zip",
-                      checksum: "007bb830fc77aca307dced0680aeadb468c81d8f25876c3c324c405110746a4d"),
+                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.6/out123.zip",
+                      checksum: "0e0ad7c280037c66fca701b49d11c7fe82a216bd877b02cec8796aa2b33ae98e"),
         .binaryTarget(name: "syn123",
-                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.4/syn123.zip",
-                      checksum: "97a5b55eada2b3acc197707983b85e3bb8bf266d5000ae62a07393f19d01cd90"),
+                      url: "https://github.com/de4me/mpg123-package/releases/download/1.32.6/syn123.zip",
+                      checksum: "e6736ce4ec8da5c37e415b05890fa5006fa12dd23c84e9a32d8d616304478880"),
     ]
 )
